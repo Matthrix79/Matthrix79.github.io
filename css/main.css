@@ -2,20 +2,17 @@
 
 /*polices*/
 @font-face {
-  font-family: "Seaside";
-  src: url('../polices/seaside.otf');
+  font-family: "GreatVibes";
+  src: url('../polices/greatvibes.ttf');
 }
 @font-face {
-  font-family: "ravenscroft";
+  font-family: "Ravenscroft";
   src:url('../polices/ravenscroft.ttf');
 }
-@font-face {
-  font-family: "Montserrat";
-  src: url('../polices/montserrat.ttf');
-}
+
 @font-face {
   font-family: "Roboto-Light";
-  src: url('../polices/montserrat.ttf');
+  src: url('../polices/robotolight.ttf');
 }
 
 #wrap {
@@ -25,7 +22,7 @@
 }
 
 #pmfont {
-  font-family:"ravenscroft";
+  font-family:"Ravenscroft";
   font-style: normal;
   font-size: 50px;
   letter-spacing: 4px;
@@ -198,7 +195,7 @@ nav ul li {
 
 nav ul li a {
   color: white;
-  font-family:"seaside", Tahoma, Verdana, Arial;
+  font-family:"GreatVibes", Tahoma, Verdana, Arial;
   font-size:2em;
   text-decoration: none;  /*enlève le souligné*/
 }
@@ -274,7 +271,7 @@ textarea {
 }
 
 [type="submit"] {
-    font-family: 'ravenscroft', Arial, Helvetica, sans-serif;
+    font-family: 'Ravenscroft', Arial, Helvetica, sans-serif;
     width: 100%;
     background: #353a55;
     border-radius: 5px;
