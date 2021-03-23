@@ -68,6 +68,10 @@ vertical-align: bottom;
   padding-right: 15%;
 }
 
+.frame {
+style=”border: 3px solid maroon;”
+}
+
 .imageleft {
     float: left;
     padding-left: 14%;
